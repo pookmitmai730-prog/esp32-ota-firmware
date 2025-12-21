@@ -1,5 +1,5 @@
 {
   "version": "1.0.0",
-  "bin": "https://github.com/pookmitmai730-prog/esp32-ota-firmware/blob/main/firmware/firmware.bin"
+  "bin": "https://raw.githubusercontent.com/pookmitmai730-prog/esp32-ota-firmware/main/firmware/firmware.bin"
 }
 
